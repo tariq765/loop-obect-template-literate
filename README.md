@@ -1,0 +1,1 @@
+# loop-obect-template-literate
